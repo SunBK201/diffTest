@@ -4,7 +4,7 @@ public class codes {
     int a = 1;
     String say = "This is the second code. ";
 
-    //GOOGLE1
+    //Honor
     public int add(int a, int b) {
         return a+b;
     }
