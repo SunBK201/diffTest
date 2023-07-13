@@ -6,4 +6,13 @@ public class code1 {
     public static void main(String[] args) {
         System.out.println("This is a test code.");
     }
+
+    /**
+     * Innercode1
+     */
+    public class Innercode1 {
+        public int sub(int a, int b) {
+            return a-b;
+        }
+    }
 }
