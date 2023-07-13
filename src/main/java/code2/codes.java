@@ -4,8 +4,13 @@ public class codes {
     int a = 1;
     String say = "This is the second code. ";
 
-    //Honor
+    // Honor
     public int add(int a, int b) {
-        return a+b;
+        return a + b;
+    }
+    
+    // Honor
+    public int sub(int a, int b) {
+        return a-b;
     }
 }
