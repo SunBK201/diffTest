@@ -6,6 +6,7 @@ public class codes {
 
     // Honor
     public int add(int a, int b) {
+        int c = 1;
         return a + b;
     }
     
